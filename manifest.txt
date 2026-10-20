@@ -1,5 +1,0 @@
-f	1
-ctx	e7d3738fb574aa28fc232bac930f2ec7
-s	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/taller1/app/src/main/java/com/example/taller1/Main.java	1010	1792341456900	1792345600353	c7e1224751d162399f5a3606bfddf099
-o	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/taller1/app/src/main/java/com/example/taller1/Main.java	com/example/taller1/Main.class
-a	com/example/taller1/Main.class	416759b0691e11e95f024ead5f0941d9	N	Main
