@@ -11,7 +11,7 @@ int menorTiempo = resultados[0], mayorTiempo = resultados[0];
 for (int i = 0; i < resultados.length; i++) {
     
     
-    if (resultados[i < menorTiempo]) {
+    if (resultados[i] < menorTiempo) {
         menorTiempo = resultados[i];
     }
     
